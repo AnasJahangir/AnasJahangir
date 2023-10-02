@@ -1,14 +1,8 @@
-<style>
-  .border-r{
-    border-radius: 20px;
-  }
-  
-</style>
+
 
 <span class="border-r">
-  <img align="center" width="100%" src="https://anasjahangir.netlify.app/img/banner.jpg" alt="Anas jahangir">
-
-  <span/>
+  <img align="center" width="100%" src="https://anasjahangir.netlify.app/img/banner.jpg" alt="Anas Jahangir" style="border-radius: 10px;">
+</span>
 
 
 
