@@ -1,5 +1,7 @@
-[![MasterHead](https://anasjahangir.netlify.app/img/banner.jpg)](https://anasjahangir.netlify.app/)
-<img align="center" width="100%" src="https://anasjahangir.netlify.app/img/banner.jpg" alt="Anas jahangir">
+<span style="border-radius: 20px;">
+  [![MasterHead](https://anasjahangir.netlify.app/img/banner.jpg)](https://anasjahangir.netlify.app/)
+  <span/>
+
 
 
 <h1 align="center">Hi 👋, I'm Anas Jahangir</h1>
