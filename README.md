@@ -1,6 +1,5 @@
 [![MasterHead](https://anasjahangir.netlify.app/img/banner.jpg)](https://anasjahangir.netlify.app/)
 
-
 <h1 align="center">Hi 👋, I'm Anas Jahangir</h1>
 <h3 align="center">A Passionate Frontend Developer And A Student Of Web And Mobile Application Development</h3>
 
