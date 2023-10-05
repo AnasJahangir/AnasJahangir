@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Anas Jahangir</h1>
 <h3 align="center">A Passionate Frontend Developer And A Student Of Web And Mobile Application Development</h3>
 
-<img align="right" width="400" src="https://anasjahangir.netlify.app/img/animted-gif.gif" alt="Anas jahangir" style="border-radius: 20px !important;">
+<img align="right" width="399" src="https://anasjahangir.netlify.app/img/animted-gif.gif" alt="Anas jahangir" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasjahangir&label=Profile%20views&color=0e75b6&style=flat" alt="anasjahangir" /> </p>
