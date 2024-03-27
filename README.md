@@ -4,20 +4,20 @@
 
 
 <h1 align="center">Hi 👋, I'm Anas Jahangir</h1>
-<h3 align="center">A Passionate Frontend Developer And A Student Of Web And Mobile Application Development</h3>
+<h3 align="center">A MERN Stack Developer</h3>
 
 <img align="right" width="350px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Anas jahangir" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasjahangir&label=Profile%20views&color=0e75b6&style=flat" alt="anas jahangir" /> </p>
 
-- 🌱 I’m currently learning **NextJs, React Native, NodeJs, MongoDB**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://Anasjahangir.netlify.app/](https://Anasjahangir.netlify.app/)
 
-- 💬 Ask me about **Frontend Development, JavaScript**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **Anasjahangir.bus@gmail.com**
 
-- ⚡ Fun fact **I’m currently 15 years old**
+- ⚡ Fun fact **I'm only 15 years old and already a proficient MERN Stack Developer! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
