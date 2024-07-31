@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **Anasjahangir.bus@gmail.com**
 
-- ⚡ Fun fact **I'm just 16 years old and already a proficient MERN Stack Developer! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
