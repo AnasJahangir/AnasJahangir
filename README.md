@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://Anasjahangir.netlify.app/](https://Anasjahangir.netlify.app/)
+#- 👨‍💻 All of my projects are available at [https://Anasjahangir.netlify.app/](https://Anasjahangir.netlify.app/)
 
 - 💬 Ask me about **MERN Stack Development**
 
