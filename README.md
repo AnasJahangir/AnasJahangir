@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="/mnt/data/A_sleek,_modern_tech-themed_banner_with_a_gradient.png" width="100%" alt="Anas Jahangir's Banner"/>
+  <img src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/06b3FMA.jpg" width="100%" alt="Anas Jahangir's Banner"/>
 </div>
 
 <h1 align="center">Hey there 👋, I'm <span style="color: #6CC644;">Anas Jahangir</span></h1>
