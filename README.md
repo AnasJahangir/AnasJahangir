@@ -36,8 +36,9 @@ $ whoami
 
 ## 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,ts,bootstrap,tailwind,git,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,ts,html,css,sass,bootstrap,tailwind,git,github,docker,aws,vscode,figma,heroku,vercel,postman,redux&theme=dark" />
 </p>
+
 
 ---
 
