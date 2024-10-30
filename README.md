@@ -1,13 +1,9 @@
 
-<div align="center">
-  <img src="https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/06b3FMA.jpg" width="100%" alt="Anas Jahangir's Banner"/>
-</div>
-
 <h1 align="center">Hey there 👋, I'm <span style="color: #6CC644;">Anas Jahangir</span></h1>
 <h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=Problem+Solver+🔧;MERN+Stack+Proficient+⚛️;Loving+Tech+Exploration+🌍;Always+Learning+New+Stuff+📖" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%7C+Open+Source+Enthusiast;Problem+Solver+%7C+Tech+Explorer+🚀;Building+Future+with+Code+%7C+Never+Stop+Learning+💡;Innovation+%2B+Persistence+=+Success" alt="Enhanced Typing SVG">
 </p>
 
 ---
