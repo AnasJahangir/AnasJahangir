@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://anasjahangir.netlify.app/img/banner.jpg" width="100%" alt="Anas Jahangir's Banner"/>
+  <img src="/mnt/data/A_sleek,_modern_tech-themed_banner_with_a_gradient.png" width="100%" alt="Anas Jahangir's Banner"/>
 </div>
 
 <h1 align="center">Hey there 👋, I'm <span style="color: #6CC644;">Anas Jahangir</span></h1>
@@ -28,8 +28,7 @@ $ whoami
 
 ---
 
-
-## 🔗 **Let's Connect!**
+## 🔗 **Connect with Me**
 <div align="center">
   <a href="https://twitter.com/anasjahangir0" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/></a>
   <a href="https://linkedin.com/in/anasjahangir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
@@ -83,8 +82,7 @@ $ fortune | cowsay
  -------------------------------
         \   ^__^
          \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
+            (__)\       )\/                ||----w |
                 ||     ||
 ```
 
