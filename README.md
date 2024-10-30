@@ -52,7 +52,7 @@ $ whoami
 
 ## 🏆 **Trophies and Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasjahangir&theme=darkhub&column=5" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=anasjahangir&theme=darkhub&column=7" alt="Trophies">
 </p>
 
 ---
