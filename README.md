@@ -89,3 +89,15 @@ $ fortune | cowsay
   <h3>Thanks for visiting! 😎</h3>
   <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="100px"/>
 </div>
+
+
+<p align="center">
+  <!-- Contributions -->
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome Badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Love-%23f54242.svg?style=for-the-badge" alt="Open Source Love Badge" />
+  
+  <!-- Miscellaneous -->
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Markdown Badge" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License Badge" />
+</p>
+
