@@ -84,15 +84,7 @@ $ fortune | cowsay
 ```
 
 ---
-<p align="center">
-  <!-- Contributions -->
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome Badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Love-%23f54242.svg?style=for-the-badge" alt="Open Source Love Badge" />
-  
-  <!-- Miscellaneous -->
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" alt="Markdown Badge" />
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License Badge" />
-</p>
+
 
 <div align="center">
   <h3>Thanks for visiting! 😎</h3>
@@ -100,4 +92,42 @@ $ fortune | cowsay
 </div>
 
 
+<p align="center">
+  <!-- Creativity -->
+  <img src="https://img.shields.io/badge/Creative%20Coder-🎨-FF8C00?style=flat-square" alt="Creative Coder Badge" />
+  
+
+  <!-- Flexin' on Code -->
+  <img src="https://img.shields.io/badge/Flexin'%20on%20Code-💪-FFD700?style=flat-square" alt="Flexin' on Code Badge" />
+  
+  
+  <!-- Open Source Contributor -->
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-💻-008000?style=flat-square" alt="Open Source Contributor Badge" />
+  
+  <!-- Coffee Lover -->
+  <img src="https://img.shields.io/badge/Coffee%20Lover-☕-6F4C3E?style=flat-square" alt="Coffee Lover Badge" />
+  
+  <!-- Problem Solver -->
+  <img src="https://img.shields.io/badge/Problem%20Solver-🔍-FF4500?style=flat-square" alt="Problem Solver Badge" />
+  
+  <!-- Tech Explorer -->
+  <img src="https://img.shields.io/badge/Tech%20Explorer-🧭-4682B4?style=flat-square" alt="Tech Explorer Badge" />
+  
+  <!-- Code Ninja -->
+  <img src="https://img.shields.io/badge/Code%20Ninja-🥷-000000?style=flat-square" alt="Code Ninja Badge" />
+
+  <!-- Slayin' Code -->
+  <img src="https://img.shields.io/badge/Slayin'%20Code-✨-FF1493?style=flat-square" alt="Slayin' Code Badge" />
+  
+  <!-- Automation Enthusiast -->
+  <img src="https://img.shields.io/badge/Automation%20Enthusiast-🤖-FFD700?style=flat-square" alt="Automation Enthusiast Badge" />
+  
+ 
+  <!-- No Bugs Allowed -->
+  <img src="https://img.shields.io/badge/No%20Bugs%20Allowed-🐞-FF69B4?style=flat-square" alt="No Bugs Allowed Badge" />
+    
+  <!-- Meme Lord -->
+  <img src="https://img.shields.io/badge/Meme%20Lord-👑-FF4500?style=flat-square" alt="Meme Lord Badge" />
+  
+</p>
 
