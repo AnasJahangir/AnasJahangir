@@ -18,7 +18,7 @@ $ whoami
   "name": "Anas Jahangir",
   "currentFocus": "React Native Development",
   "interests": ["Open Source", "Web Dev", "Tech Community"],
-  "contact": "anasjahangir.bus@gmail.com"
+  "contact": "anas@anasjahangir.com"
 }
 ```
 
