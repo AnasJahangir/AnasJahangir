@@ -5,8 +5,8 @@
 
 <br/>
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=const+anas+%3D+new+MERNDeveloper()%3B+%F0%9F%9A%80;git+push+origin+greatness+%F0%9F%94%A5;rm+-rf+bugs+%2F%2F+works+on+my+machine+%F0%9F%A4%A1;npm+install+skills+--save-forever+%F0%9F%A7%A0;coffee.execute()%3B+ship.now()%3B+sleep.never()%3B" alt="Typing SVG" />
+<!-- TYPING SVG — sarcastic & funny era -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=750&lines=my+code+works%2C+i+have+no+idea+why+%F0%9F%A4%B7;stackoverflow+engineer+by+day%2C+debugger+by+3am+%F0%9F%8C%99;yes+i+googled+it.+no+i+dont+feel+bad+%F0%9F%98%82;git+commit+-m+%22fixed%22+%2F%2F+broke+3+other+things+%F0%9F%92%80;currently+in%3A+trying+to+center+a+div+era+%F0%9F%98%AD;documentation%3F+never+heard+of+her+%F0%9F%93%96;it+works+on+my+machine+%E2%80%94+ship+the+machine+%F0%9F%9A%A2" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,22 +28,26 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗ ███████╗██╗   ██╗                                   ║
-║   ██╔══██╗██╔════╝██║   ██║   ANAS JAHANGIR                   ║
-║   ██║  ██║█████╗  ██║   ██║   ─────────────────────────────  ║
-║   ██║  ██║██╔══╝  ╚██╗ ██╔╝   role     →  MERN Stack Dev      ║
-║   ██████╔╝███████╗ ╚████╔╝    stack    →  MongoDB/Express/     ║
-║   ╚═════╝ ╚══════╝  ╚═══╝                React/Node.js        ║
-║                               location →  Pakistan 🌍         ║
-║   currently_building: web apps that slap 🔥                   ║
-║   open_to: collabs • open source • cool builds                ║
-║   not_open_to: boring projects 💀                             ║
-║   contact: anas@anasjahangir.com                              ║
-║                                                               ║
-║   // fun fact: i debug in prod 😈 (jk... mostly)             ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ░█████╗░███╗░░██╗░█████╗░░██████╗                             ║
+║   ██╔══██╗████╗░██║██╔══██╗██╔════╝   ANAS JAHANGIR             ║
+║   ███████║██╔██╗██║███████║╚█████╗░   ──────────────────────    ║
+║   ██╔══██║██║╚████║██╔══██║░╚═══██╗   role  →  MERN Stack Dev   ║
+║   ██║░░██║██║░╚███║██║░░██║██████╔╝   stack →  MongoDB • Express ║
+║   ╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═════╝           React • Node.js   ║
+║                                        loc   →  Pakistan 🇵🇰     ║
+║   ┌─────────────────────────────────────────────────────────┐   ║
+║   │  currently  →  building stuff that actually works 🔥    │   ║
+║   │  open_to    →  collabs • open source • cool builds      │   ║
+║   │  not_open   →  boring projects & meetings at 9am 💀     │   ║
+║   │  contact    →  anas@anasjahangir.com                    │   ║
+║   └─────────────────────────────────────────────────────────┘   ║
+║                                                                  ║
+║   > console.log("why does this work") // no response 😭         ║
+║   > git blame → always me 💀                                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -110,16 +114,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasjahangir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=EC4899&point=ffffff&area=true&area_color=A78BFA20&custom_title=Anas's+Contribution+Graph+🔥" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 trophy case `// lowkey flexing`
-
-<div align="center">
-
-<img src="https://github-profile-trophy-five-pi.vercel.app/?username=anasjahangir&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 </div>
 
