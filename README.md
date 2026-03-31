@@ -1,126 +1,160 @@
-
-<h1 align="center">Hey there 👋, I'm <span style="color: #6CC644;">Anas Jahangir</span></h1>
-<h3 align="center">🚀 MERN Stack Developer | Lifelong Learner | Open Source Contributor</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=36BCF7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%7C+Open+Source+Enthusiast;Problem+Solver+%7C+Tech+Explorer+🚀;Building+Future+with+Code+%7C+Never+Stop+Learning+💡;Innovation+%2B+Persistence+=+Success" alt="Enhanced Typing SVG">
-</p>
-
----
-
-## 🎨 **A Glimpse into Me**
-```bash
-$ whoami
-> anas_jahangir@developer~$
-```
-```json
-{
-  "name": "Anas Jahangir",
-  "currentFocus": "React Native Development",
-  "interests": ["Open Source", "Web Dev", "Tech Community"],
-  "contact": "anas@anasjahangir.com"
-}
-```
-
----
-
-
----
-
-## 🛠️ **Tech Stack & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,ts,html,css,sass,bootstrap,tailwind,vite,nextjs,git,github,docker,aws,vscode,figma,heroku,vercel,postman,redux,linux,nextjs,mysql,sqlite,redis,kafka,graphql&theme=dark" />
-</p>
-
-
----
-
-## 🚀 **GitHub Journey**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasjahangir&show_icons=true&theme=github_dark&rank_icon=percentile" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anasjahangir&theme=github-dark-blue" width="45%" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 **Trophies and Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasjahangir&theme=darkhub&column=7" alt="Trophies">
-</p>
-
----
-
-## 🌍 **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasjahangir&layout=compact&theme=dark" width="40%" alt="Top Languages">
-</p>
-
----
-
-## 🔄 **Random Developer Quote**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-</p>
-
----
-
-## 🎉 **Fun Fact**
-```bash
-$ fortune | cowsay
- _______________________________
-< Sometimes debugging is more fun! >
- -------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/                ||----w |
-                ||     ||
-```
-
----
-
-
 <div align="center">
-  <h3>Thanks for visiting! 😎</h3>
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="100px"/>
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=anas.jahangir()&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=MERN+Stack+Dev+%7C+Open+Source+%7C+Always+Shipping+🚀&descAlignY=60&descSize=15&animation=fadeIn&fontFamily=Courier+New" />
+
+<br/>
+
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=const+anas+%3D+new+MERNDeveloper()%3B+%F0%9F%9A%80;git+push+origin+greatness+%F0%9F%94%A5;rm+-rf+bugs+%2F%2F+works+on+my+machine+%F0%9F%A4%A1;npm+install+skills+--save-forever+%F0%9F%A7%A0;coffee.execute()%3B+ship.now()%3B+sleep.never()%3B" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-anasjahangir.com-A78BFA?style=for-the-badge)](https://anasjahangir.com)
+[![Email](https://img.shields.io/badge/📬_Email-anas%40anasjahangir.com-EC4899?style=for-the-badge)](mailto:anas@anasjahangir.com)
+[![GitHub followers](https://img.shields.io/github/followers/anasjahangir?style=for-the-badge&logo=github&logoColor=white&color=6366F1&labelColor=0d1117&label=👥+Followers)](https://github.com/anasjahangir)
+[![Profile Views](https://komarev.com/ghpvc/?username=anasjahangir&color=A78BFA&style=for-the-badge&label=👁️+VIEWS)](https://github.com/anasjahangir)
+
 </div>
 
+<br/>
 
-<p align="center">
-  <!-- Creativity -->
-  <img src="https://img.shields.io/badge/Creative%20Coder-🎨-FF8C00?style=flat-square" alt="Creative Coder Badge" />
-  
+---
 
-  <!-- Flexin' on Code -->
-  <img src="https://img.shields.io/badge/Flexin'%20on%20Code-💪-FFD700?style=flat-square" alt="Flexin' on Code Badge" />
-  
-  
-  <!-- Open Source Contributor -->
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-💻-008000?style=flat-square" alt="Open Source Contributor Badge" />
-  
-  <!-- Coffee Lover -->
-  <img src="https://img.shields.io/badge/Coffee%20Lover-☕-6F4C3E?style=flat-square" alt="Coffee Lover Badge" />
-  
-  <!-- Problem Solver -->
-  <img src="https://img.shields.io/badge/Problem%20Solver-🔍-FF4500?style=flat-square" alt="Problem Solver Badge" />
-  
-  <!-- Tech Explorer -->
-  <img src="https://img.shields.io/badge/Tech%20Explorer-🧭-4682B4?style=flat-square" alt="Tech Explorer Badge" />
-  
-  <!-- Code Ninja -->
-  <img src="https://img.shields.io/badge/Code%20Ninja-🥷-000000?style=flat-square" alt="Code Ninja Badge" />
+## ◈ whoami
 
-  <!-- Slayin' Code -->
-  <img src="https://img.shields.io/badge/Slayin'%20Code-✨-FF1493?style=flat-square" alt="Slayin' Code Badge" />
-  
-  <!-- Automation Enthusiast -->
-  <img src="https://img.shields.io/badge/Automation%20Enthusiast-🤖-FFD700?style=flat-square" alt="Automation Enthusiast Badge" />
-  
- 
-  <!-- No Bugs Allowed -->
-  <img src="https://img.shields.io/badge/No%20Bugs%20Allowed-🐞-FF69B4?style=flat-square" alt="No Bugs Allowed Badge" />
-    
-  <!-- Meme Lord -->
-  <img src="https://img.shields.io/badge/Meme%20Lord-👑-FF4500?style=flat-square" alt="Meme Lord Badge" />
-  
-</p>
+<br/>
 
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██████╗ ███████╗██╗   ██╗                                   ║
+║   ██╔══██╗██╔════╝██║   ██║   ANAS JAHANGIR                   ║
+║   ██║  ██║█████╗  ██║   ██║   ─────────────────────────────  ║
+║   ██║  ██║██╔══╝  ╚██╗ ██╔╝   role     →  MERN Stack Dev      ║
+║   ██████╔╝███████╗ ╚████╔╝    stack    →  MongoDB/Express/     ║
+║   ╚═════╝ ╚══════╝  ╚═══╝                React/Node.js        ║
+║                               location →  Pakistan 🌍         ║
+║   currently_building: web apps that slap 🔥                   ║
+║   open_to: collabs • open source • cool builds                ║
+║   not_open_to: boring projects 💀                             ║
+║   contact: anas@anasjahangir.com                              ║
+║                                                               ║
+║   // fun fact: i debug in prod 😈 (jk... mostly)             ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+---
+
+## ⚡ tech stack `// no cap`
+
+<div align="center">
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🛠️ Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 github wrapped `// the stats don't lie`
+
+<div align="center">
+
+<img src="https://github-readme-stats-rho-rouge-88.vercel.app/api?username=anasjahangir&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=C9D1D9&border_radius=12&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=anasjahangir&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&border_radius=12&stroke=0D1117&dates=8B8FA8&sideLabels=A78BFA" width="49%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-rho-rouge-88.vercel.app/api/top-langs/?username=anasjahangir&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12&cache_seconds=86400&langs_count=8" width="42%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 contribution graph `// the grind is real`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anasjahangir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=EC4899&point=ffffff&area=true&area_color=A78BFA20&custom_title=Anas's+Contribution+Graph+🔥" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 trophy case `// lowkey flexing`
+
+<div align="center">
+
+<img src="https://github-profile-trophy-five-pi.vercel.app/?username=anasjahangir&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 💬 dev quote `// words to live by`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+</div>
+
+---
+
+## 🎭 vibe check
+
+<div align="center">
+
+![Creative Coder](https://img.shields.io/badge/Creative%20Coder-🎨-A78BFA?style=flat-square&labelColor=0d1117)
+![Ship It](https://img.shields.io/badge/Ship%20It%20Don't%20Skip%20It-🚢-EC4899?style=flat-square&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Enjoyer-💚-22C55E?style=flat-square&labelColor=0d1117)
+![Coffee Dependent](https://img.shields.io/badge/Coffee%20Dependent-☕-F59E0B?style=flat-square&labelColor=0d1117)
+![No Bugs Allowed](https://img.shields.io/badge/No%20Bugs%20Allowed-🐛-EF4444?style=flat-square&labelColor=0d1117)
+![Meme Lord](https://img.shields.io/badge/Certified%20Meme%20Lord-👑-F97316?style=flat-square&labelColor=0d1117)
+![Code Ninja](https://img.shields.io/badge/Code%20Ninja-🥷-6366F1?style=flat-square&labelColor=0d1117)
+![Automate Everything](https://img.shields.io/badge/Automate%20Everything-🤖-14B8A6?style=flat-square&labelColor=0d1117)
+![Debugs In Prod](https://img.shields.io/badge/Debugs%20In%20Prod-😈-FF0000?style=flat-square&labelColor=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=thx+for+stopping+by+👾&fontSize=22&fontColor=A78BFA&fontAlignY=65&animation=fadeIn&fontFamily=Courier+New"/>
+
+</div>
